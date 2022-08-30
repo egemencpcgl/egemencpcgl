@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **automatization**
 
-- 🌱 I’m currently learning **NLP**
-
-- 📫 How to reach me **ezgi.turali@gmail.com**
+- 📫 How to reach me **egemen.capacioglu@gmail.com**
 
 
 ## 🌐Socials
