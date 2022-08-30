@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Ezgi</h1>
-<h3 align="center">Data Analyst and MSc in Data Science</h3>
+<h1 align="center">Hey there, I'm Egemen</h1>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on **automatization**
 
