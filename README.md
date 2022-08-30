@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hey there, I'm Ezgi</h1>
+<h3 align="center">Data Analyst and MSc in Data Science</h3>
 
-<!--
-**egemencpcgl/egemencpcgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **automatization**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **NLP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **ezgi.turali@gmail.com**
+
+
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/egemencpcgl)
+
+# 💻Tech Stack
+C#, ReactJS, PostgreSQL, Java, Socket Programming, WPF, .Net, RestAPI
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=egemencpcgl&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
