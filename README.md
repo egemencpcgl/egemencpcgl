@@ -12,4 +12,4 @@
 # 💻Tech Stack
 C#, ReactJS, PostgreSQL, Java, Socket Programming, WPF, .Net, RestAPI
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=egemencpcgl&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=egemencpcgl&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
